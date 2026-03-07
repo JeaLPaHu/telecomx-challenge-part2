@@ -157,11 +157,13 @@ telecomx-challenge-part2/
 
 ---
 
-## 👤 Autor
+## 📬 Autor y Contacto
 
-**JeaLPaHu**  
-[![GitHub](https://img.shields.io/badge/GitHub-JeaLPaHu-black?style=flat-square&logo=github)](https://github.com/JeaLPaHu)
+**Jesús Alberto Palet Huerta**
 
+[![GitHub](https://img.shields.io/badge/GitHub-jealpahu-181717?logo=github)](https://github.com/jealpahu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jealpahu-0077B5?logo=linkedin)](https://www.linkedin.com/in/jealpahu/)
+[![Email](https://img.shields.io/badge/Email-jealpahu@gmail.com-D14836?logo=gmail)](mailto:jealpahu@gmail.com)
 ---
 
 *Challenge Data Science — TelecomX LATAM* 🚀
